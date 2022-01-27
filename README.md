@@ -1,7 +1,7 @@
-IT Educational Institute Data Analysis
+IT_Educational_Institute_Data_Analysis
 ==============================
 
-This project aims to is to increase the student's enrollment rate and decrease drop-out rate in an IT Educational Institute using a data-driven solution.
+This project aims to is to increase the student's enrollment rate and decrease drop-out rate in an IT Educational Institute using a data-driven approach.
 
 Project Organization
 ------------

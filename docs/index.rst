@@ -1,9 +1,9 @@
-.. IT Educational Institute Data Analysis documentation master file, created by
+.. IT_Educational_Institute_Data_Analysis documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-IT Educational Institute Data Analysis documentation!
+IT_Educational_Institute_Data_Analysis documentation!
 ==============================================
 
 Contents:
