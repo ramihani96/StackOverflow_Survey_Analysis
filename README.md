@@ -1,9 +1,28 @@
-IT_Educational_Institute_Data_Analysis
+StackOverflow Survey Analysis
 ==============================
 
-This project aims to is to increase the student's enrollment rate and decrease drop-out rate in an IT Educational Institute using a data-driven approach.
+<h2> Problem Statement </h2>
+  <div>
+    <ul>
+      <li>
+      The field of IT jobs and technologies keeps evolving quickly, such fast development confuses students and they do not know which skills they need to learn for which job.
+      </li>
+      <li>
+      Some of these confusions can lead to questions like:
+        <li>Do I need to learn C++ to be a data scientist ?</li>
+        <li>Do DevOps and System Admins use the same technologies ?</li>
+      </li>
+      <li>
+      The aim of this project is to develop a data-driven solution for students to answer such questions.
+      </li>
+      <li>
+      We want to understand the relationships between the jobs and the technologies.
+      </li>
+    </ul>
+  </div>
 
-Project Organization
+
+<h2>Project Organization</h2>
 ------------
 
     ├── LICENSE
