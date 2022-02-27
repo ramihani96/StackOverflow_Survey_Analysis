@@ -1,7 +1,7 @@
 StackOverflow Survey Analysis
 ==============================
 
-<h2> Problem Statement </h2>
+<h2> 1.Problem Statement </h2>
   <div>
     <ul>
       <li>
@@ -13,7 +13,7 @@ StackOverflow Survey Analysis
         <li>Do DevOps and System Admins use the same technologies ?</li>
       </li>
       <li>
-      The aim of this project is to develop a data-driven solution for students to answer such questions.
+      The aim of this project is to <strong>develop a data-driven solution for students to answer such questions.</strong>
       </li>
       <li>
       We want to understand the relationships between the jobs and the technologies.
@@ -21,8 +21,30 @@ StackOverflow Survey Analysis
     </ul>
   </div>
 
+  <h2> 2.Business Case </h2>
+    <div>
+      <ul>
+        <li>Our client is an IT Educational Institute.</li>
+        <li>This project will help the institute to provide obvious career path solutions for their students.</li>
+        <li>This project will help the graduates of the track to meet market requirements and this will lead to higher number of students coming to the institute and as an impact higher revenue for the institute.</li>
+        <li>The main Key Performance Indicators <strong>(KPI's)</strong> of this projects are:
+            1. Higher Enrollment Rate.
+            2. Decrease in Drop-out Rate.
+            3. Saving time for Academic Advisors.
+        </li>
+      </ul>
+    </div>
 
-<h2>Project Organization</h2>
+  <h2> 3.Data Used for Analysis </h2>
+  <div>
+    <ul>
+      <li>The Educational Institute doesn't have any internal data sources so we are going to use an external data source.</li>
+      <li>We will be using <strong>StackOverflow Survey 2020</strong> in this project. (<a href="https://insights.stackoverflow.com/survey/2020"> StackOverflow Survey 2020 </a>)</li>
+      <li>To download the dataset, click <a href="https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2020.zip"Here</a>.
+    </ul>
+  </div>
+
+<h2> 4.Project Organization</h2>
 ------------
 
     ├── LICENSE
