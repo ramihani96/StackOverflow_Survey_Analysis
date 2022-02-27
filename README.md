@@ -27,10 +27,10 @@ StackOverflow Survey Analysis
         <li>Our client is an IT Educational Institute.</li>
         <li>This project will help the institute to provide obvious career path solutions for their students.</li>
         <li>This project will help the graduates of the track to meet market requirements and this will lead to higher number of students coming to the institute and as an impact higher revenue for the institute.</li>
-        <li>The main Key Performance Indicators <strong>(KPI's)</strong> of this projects are:
-            1. Higher Enrollment Rate.
-            2. Decrease in Drop-out Rate.
-            3. Saving time for Academic Advisors.
+        <li>The main Key Performance Indicators <strong>(KPI's)</strong> of this projects are:<br>
+            1. Higher Enrollment Rate. <br>
+            2. Decrease in Drop-out Rate.<br>
+            3. Saving time for Academic Advisors.<br>
         </li>
       </ul>
     </div>
