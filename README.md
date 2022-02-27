@@ -40,7 +40,7 @@ StackOverflow Survey Analysis
     <ul>
       <li>The Educational Institute doesn't have any internal data sources so we are going to use an external data source.</li>
       <li>We will be using <strong>StackOverflow Survey 2020</strong> in this project. (<a href="https://insights.stackoverflow.com/survey/2020"> StackOverflow Survey 2020 </a>)</li>
-      <li>To download the dataset directly, click <a href="https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2020.zip"Here</a>.
+      <li>To download the dataset directly, click <a href="https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2020.zip">Here</a>.
     </ul>
   </div>
 
